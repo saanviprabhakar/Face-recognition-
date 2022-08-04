@@ -1,0 +1,24 @@
+body
+{
+background:url("b.png");
+background-size: cover;
+color: rgb(32, 0, 241);
+font-family: 'Patrick Hand', cursive;
+
+}
+.name_of_objects,#result_object_accuracy,#result_object_name
+{
+color: rgb(245, 254, 145);
+
+font-size:27px;
+
+}
+.heading{
+    width:80%;
+    font-size:29px;
+}
+#camera{
+    width: 350px;
+    height:300px;
+    border:2px dashed black;
+}
